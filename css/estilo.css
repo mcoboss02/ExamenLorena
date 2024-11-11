@@ -1,0 +1,68 @@
+/* Manuel Cobos Solís */
+
+@import url('https://fonts.googlesapis.com/.........');
+
+* {
+    font-family: 'Montserrat', Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f9;
+    color: #0b0a0a;
+}
+
+.main_container {
+    margin: 0% auto;
+    text-align: center;
+}
+
+footer {
+    height: 40px;
+    background-color: #333;
+    padding-bottom: 6%;
+    padding-top: 1%;
+}
+
+header {
+    height: 40px;
+    background-color: #333;
+    padding-top: 0.5%;
+}
+
+img {
+    margin-top: 2%;
+    width: 50%;
+    height: auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    padding-top: 2%;
+    text-align: center;
+    margin: auto;
+}
+
+li > a:hover {
+    color: #a9065d;
+}
+
+ul {
+    width: 30vw;
+    margin: 0% auto;
+    list-style-type: none;
+    display: flex;
+}
+
+section {
+    margin: 5% 0%;
+}
+
+h1 {
+    margin: 3% 0%;
+    margin-top: -3%;
+    font-weight: 100;
+}
